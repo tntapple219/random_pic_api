@@ -168,4 +168,3 @@ Any suggestions or contributions to this project are welcome\! Feel free to open
 
 This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details (if applicable).
 
-```
