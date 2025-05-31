@@ -14,18 +14,18 @@ Your project structure is now organized into `local` and `online` subdirectories
 
 ```
 
-random\_pic\_api/
-├── local/                  \# Contains the local image API and its image directory
-│   ├── local\_random\_image.php
-│   └── images/             \# Local images for local\_random\_image.php
+random_pic_api/
+├── local/                  # Contains the local image API and its image directory
+│   ├── local_random_image.php
+│   └── images/             # Local images for local_random_image.php
 │       ├── image1.jpg
 │       ├── image2.png
 │       └── ...
-└── online/                 \# Contains the online image API and its URL list
-├── images.txt          \# List of external image URLs for online\_random\_image.php
-└── online\_random\_image.php
+└── online/                 # Contains the online image API and its URL list
+    ├── images.txt          # List of external image URLs for online_random_image.php
+    └── online_random_image.php
 
-````
+```
 
 ## Installation and Setup 🛠️
 
