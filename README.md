@@ -166,5 +166,5 @@ Any suggestions or contributions to this project are welcome\! Feel free to open
 
 ## License 📄
 
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details (if applicable).
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/tntapple219/random_pic_api/blob/main/LICENSE) file for details (if applicable).
 
